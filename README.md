@@ -1,16 +1,16 @@
-# MissCloud
+
 * A Vue2.0.js project
 
 * Miss==>>各站点数据整合；图片，视频，文章；在线云音乐播放器；
 
 # 介绍
-* 因平时会浏览一些网页，然而这些站点没有App；所以为了方便浏览，就把这些站点内容集中到Miss App中。（PS:欢迎Star）
+* 自己做的vue项目，组件化应用、数据交互等。（PS:欢迎Star）
 # 实现功能
 ### 阅读
 1.  读1区
 2.  读2区
 3.  读3区
-* (备注：数据均为missRept服务采集)
+
 ### 音乐
 1.  私人FM
 2.  热歌榜
@@ -32,27 +32,15 @@
 ### 图片 None
 
 # Demo
-* <a target="_blank" href="http://139.196.32.78:8090/#/home/music">在线Demo MissCloud</a>
+* <a target="_blank" href="http://139.196.32.78:8088/#/home/music">在线Demo</a>
 
-* <a target="_blank" href="https://github.com/linkenliu/MissCloudVue">https://github.com/linkenliu/MissCloudVue</a>
+* <a target="_blank" href="https://github.com/shaoqingWeb/myVue">https://github.com/shaoqingWeb/myVue</a>
 
-# 展示
-
-![image](https://github.com/linkenliu/MissCloudVue/blob/master/static/pic/IMG_0554.PNG)
-![image](https://github.com/linkenliu/MissCloudVue/blob/master/static/pic/IMG_0555.PNG)
-![image](https://github.com/linkenliu/MissCloudVue/blob/master/static/pic/IMG_0556.PNG)
-![image](https://github.com/linkenliu/MissCloudVue/blob/master/static/pic/IMG_0557.PNG)
-![image](https://github.com/linkenliu/MissCloudVue/blob/master/static/pic/IMG_0558.PNG)
-![image](https://github.com/linkenliu/MissCloudVue/blob/master/static/pic/IMG_0559.PNG)
-![image](https://github.com/linkenliu/MissCloudVue/blob/master/static/pic/IMG_0560.PNG)
-![image](https://github.com/linkenliu/MissCloudVue/blob/master/static/pic/IMG_0561.PNG)
-![image](https://github.com/linkenliu/MissCloudVue/blob/master/static/pic/IMG_0562.PNG)
-![image](https://github.com/linkenliu/MissCloudVue/blob/master/static/pic/IMG_0563.PNG)
 
 
 
 # 技术栈
-* Vue,Vuex,webpack,vueRouter,axios
+* Vue+Vuex+webpack+vueRouter+axios
 
 # Server
 * missAdmin==>>负责Api服务. ### 技术栈:mongodb,mongoose,koa2
@@ -77,7 +65,7 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8090
+# serve with hot reload at localhost:8088
 npm run dev
 
 # build for production with minification
