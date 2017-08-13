@@ -85,7 +85,7 @@
         } else {
           this.isBack = true;
         }
-        this.$store.commit('setTheme', {bgColor: '', action: action});
+        this.$store.commit('setTheme', {bgColor: '#F8EBD8', action: action});
         this.$router.push({path: "/home/" + action})
       },
       toggleLeftSidenav() {
